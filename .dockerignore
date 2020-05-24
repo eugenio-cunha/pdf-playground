@@ -1,0 +1,9 @@
+node_modules/
+test/
+.git/
+.env
+.gitignore
+.tslint.json
+.gitlab-ci.yml
+tslint.json
+README.md
